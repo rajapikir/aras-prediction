@@ -1,0 +1,5 @@
+{
+  "Model decision tree": "./dtmodel.pkl",
+  "Model K nearest neigbhour": "./kknmodel.pkl",
+  "Model svm": "./svmmodel.pkl"
+}
